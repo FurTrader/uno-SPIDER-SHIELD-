@@ -13,7 +13,13 @@ V1 boards turned out pretty good.
 V1.1 includes some minor fixes but I haven't had any boards made yet.    
 
 ### Changes on V1.1:    
-
+- corrected one of the GND/5V silkscreen labels
+- label the scl/sda pins on the Uno footprint
+- closed the gap between the D3,D2 and A0,D13 connectors
+- added a pin header for reset next to the button footprint
+- connected the other 2 uno ground pins to the ground net
+- added the Uno outline to the silkscreen
+- enlarged the mounting holes to 3.2mm
 
 ## V1 Photos:    
 ![Just the board](https://github.com/FurTrader/uno-SPIDER-SHIELD-/blob/main/Photos_V1/IMG_7065.JPG)
