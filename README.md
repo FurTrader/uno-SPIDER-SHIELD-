@@ -1,5 +1,7 @@
 ### This is a breakout shield for the Arduino Uno.
 
+The V1 bare boards are available for $5 while they last: https://overkillsolar.com/product/spider-shield-v1/ If this is popular we will make some V1.1 boards for sale.
+
 This project is open-source under the usual MIT or GPL3 license. You may use it for any purpose.
  
 Every I/O pin is broken out into a .200" and .100" footprint which works with any shape of pluggable (or normal) screw connectors, or pin headers.
