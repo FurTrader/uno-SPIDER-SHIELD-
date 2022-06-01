@@ -1,4 +1,4 @@
- This is a breakout shield for the Arduino Uno.
+### This is a breakout shield for the Arduino Uno.
  
 Every I/O pin is broken out into a .200" and .100" footprint which works with any shape of pluggable (or normal) screw connectors, or pin headers.
 
@@ -8,4 +8,12 @@ There are a bunch of extra points to connect 5v and ground in the middle as well
 
 
 V1 boards turned out pretty good.    
-V1.1 includes some minor fixes but I haven't had any boards made yet.
+V1.1 includes some minor fixes but I haven't had any boards made yet.    
+
+### Changes on V1.1:    
+
+
+## V1 Photos:    
+![Just the board](https://github.com/FurTrader/uno-SPIDER-SHIELD-/blob/main/Photos_V1/IMG_7065.JPG)
+
+![Partially assembled](https://github.com/FurTrader/uno-SPIDER-SHIELD-/blob/main/Photos_V1/IMG_7060.JPG)
