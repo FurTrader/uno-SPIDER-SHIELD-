@@ -7,5 +7,5 @@ The intention was to allow a bunch of limit switches and sensors to plug in whil
 There are a bunch of extra points to connect 5v and ground in the middle as well as another full set of I/O pins. There is a jumper that connects all the 5v pins to the Arduino, or you can remove the jumper and back feed the shield from another 5v supply.
 
 
-V1 boards turned out pretty good.
+V1 boards turned out pretty good.    
 V1.1 includes some minor fixes but I haven't had any boards made yet.
