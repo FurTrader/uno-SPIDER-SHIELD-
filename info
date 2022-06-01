@@ -1,0 +1,177 @@
+{
+  "uuid": "ff792bd4a704895fffce47213f2e2fbc",
+  "path": "Offline/uno%20pluggable%20shield%201",
+  "name": "uno pluggable shield 1",
+  "content": "",
+  "created_at": "2022-05-18 15:34:29",
+  "updated_at": "2022-06-01 11:40:50",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c6ce0e5f6e001737da039b3d13c4897c",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d05f4e0bca054397aa15548595c7346f": 20,
+        "87a0428fe4544331abd8efea04b8c19d": 2,
+        "54fafc69bea54567a049a66b7ce647ba": 1,
+        "20e2a2fe0d5344c8bcb2e4bbd695ee30": 1,
+        "8faf85626062452bb09e0ae313e25f19": 38,
+        "fff3ee1e602c4a7d9242a5c89a0464ef": 18,
+        "a74be23f81e2429db59ed5fc1a525218": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2EDGRC-5.08-03P-14-100A(H)",
+          20,
+          "3P CONNECTOR CUSTOM6",
+          "A0,A1,A2,A3,A4,A5,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,I2C,SERIAL",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C669315",
+            "BOM_Manufacturer": "DEGSON",
+            "BOM_Manufacturer Part": "2EDGRC-5.08-03P-14-100A(H)",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "763e6139be3543298e290a52ed2fbccd",
+            "uuid": "d05f4e0bca054397aa15548595c7346f"
+          }
+        ],
+        [
+          "JUMPER2",
+          2,
+          "JUMPER2",
+          "LINK_1V,LINK_5V",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "2126a3d0fdba4ee1844b85ee5549cb5d",
+            "uuid": "87a0428fe4544331abd8efea04b8c19d"
+          }
+        ],
+        [
+          "JUMPER2",
+          18,
+          "2P JUMPER CUSTOM",
+          "P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2940092",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "Jumper2",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "aa7159ed902646a9ac4e2276f9e21cc2",
+            "uuid": "fff3ee1e602c4a7d9242a5c89a0464ef"
+          }
+        ],
+        [
+          "ARDUINO UNO",
+          1,
+          "CUSTOM UNO SHIELD ST4",
+          "PCB1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Botland",
+            "BOM_Manufacturer Part": "",
+            "puuid": "290b1fc472b641668ca68e310e21b315",
+            "uuid": "20e2a2fe0d5344c8bcb2e4bbd695ee30"
+          }
+        ],
+        [
+          "TAC_SWITCHPTH",
+          1,
+          "TACTILE-PTH",
+          "RESET",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "54fafc69bea54567a049a66b7ce647ba"
+          }
+        ],
+        [
+          "JUMPER3",
+          38,
+          "3P JUMPER CUSTOM",
+          "U1,U2,U3,U4,U5,U6,U7,U8,U9,U10,U11,U12,U13,U14,U15,U16,U17,U18,U19,U20,U21,U22,U23,U24,U25,U26,U27,U28,U29,U30,U31,U32,U33,U34,U35,U36,U37,U38",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2940050",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "Jumper3",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "015cb920d5ea45e1bc1b5b971b485ab3",
+            "uuid": "8faf85626062452bb09e0ae313e25f19"
+          }
+        ]
+      ],
+      "updateTime": 1654097065,
+      "createTime": 1652902470,
+      "histories": [],
+      "created_at": "2022-05-18 15:34:30",
+      "updated_at": "2022-06-01 11:24:25"
+    },
+    {
+      "uuid": "15df68c632d334d4b23005297acd47a4",
+      "puuid": "ff792bd4a704895fffce47213f2e2fbc",
+      "title": "PCB_uno pluggable shield 1",
+      "filename": "PCB_uno pluggable shield 1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "614938d722934770bc3576d498d15d30": 1,
+        "aa7159ed902646a9ac4e2276f9e21cc2": 18,
+        "763e6139be3543298e290a52ed2fbccd": 20,
+        "015cb920d5ea45e1bc1b5b971b485ab3": 38,
+        "3ce14a6b4961469894f0d82b296c83a6": 1,
+        "2126a3d0fdba4ee1844b85ee5549cb5d": 1,
+        "5cd54f830cd442fa9e10bbc73c81385d": 1
+      },
+      "BOM": [],
+      "updateTime": 1653077721,
+      "createTime": 1652907632,
+      "histories": [],
+      "created_at": "2022-05-18 17:00:32",
+      "updated_at": "2022-05-20 16:15:21"
+    },
+    {
+      "uuid": "a5c2a5657be617b5914518cfeda1e7d4",
+      "puuid": "ff792bd4a704895fffce47213f2e2fbc",
+      "title": "PCB_uno pluggable shield 1.1",
+      "filename": "PCB_uno pluggable shield 1.1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "290b1fc472b641668ca68e310e21b315": 1,
+        "2126a3d0fdba4ee1844b85ee5549cb5d": 2,
+        "614938d722934770bc3576d498d15d30": 1,
+        "aa7159ed902646a9ac4e2276f9e21cc2": 18,
+        "763e6139be3543298e290a52ed2fbccd": 20,
+        "015cb920d5ea45e1bc1b5b971b485ab3": 38,
+        "3ce14a6b4961469894f0d82b296c83a6": 1
+      },
+      "BOM": [],
+      "updateTime": 1654098050,
+      "createTime": 1654095246,
+      "histories": [],
+      "created_at": "2022-06-01 10:54:06",
+      "updated_at": "2022-06-01 11:40:50"
+    }
+  ],
+  "sort": [],
+  "title": "uno pluggable shield 1",
+  "foldername": "uno pluggable shield 1",
+  "schfilename": "uno pluggable shield 1.json",
+  "schfilemtime": 1654097065288
+}
