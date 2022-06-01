@@ -1,4 +1,6 @@
 ### This is a breakout shield for the Arduino Uno.
+
+This project is open-source under the usual MIT or GPL3 license. You may use it for any purpose.
  
 Every I/O pin is broken out into a .200" and .100" footprint which works with any shape of pluggable (or normal) screw connectors, or pin headers.
 
