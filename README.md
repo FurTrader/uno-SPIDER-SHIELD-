@@ -11,6 +11,8 @@ The intention was to allow a bunch of limit switches and sensors to plug in whil
 There are a bunch of extra points to connect 5v and ground in the middle as well as another full set of I/O pins. There is a jumper that connects all the 5v pins to the Arduino, or you can remove the jumper and back feed the shield from another 5v supply.
 
 
+
+
 V1 boards turned out pretty good.    
 V1.1 includes some minor fixes but I haven't had any boards made yet.    
 
@@ -22,6 +24,10 @@ V1.1 includes some minor fixes but I haven't had any boards made yet.
 - connected the other 2 uno ground pins to the ground net
 - added the Uno outline to the silkscreen
 - enlarged the mounting holes to 3.2mm
+
+
+## License
+This project is open source hardware, see license.txt
 
 ## V1 Photos:    
 ![Just the board](https://github.com/FurTrader/uno-SPIDER-SHIELD-/blob/main/Photos_V1/IMG_7065.JPG)
